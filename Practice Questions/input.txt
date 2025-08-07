@@ -1,0 +1,1 @@
+hello cd "c:\Users\divye\OneDrive\Desktop\DIVYESH\java\" ; if ($?) { javac check.java } ; if ($?) { java check }
